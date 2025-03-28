@@ -7,9 +7,8 @@ def nico (jackson):
   # i am passionate about web development, UI/UX/graphic design, and software development
   currentlyLearning: ("swift", 'C', "mongodb")
 ```
-<div styles=text-align:center>
+
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tacosockz&cover_image=true&theme=novatorem&show_offline=false&background_color=413535&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tacosockz&redirect=true)
-</div>
 
 <!--
 **nicolajack/nicolajack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
