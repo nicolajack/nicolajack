@@ -3,7 +3,7 @@ hi, i'm nico jackson.
 ``` python
 def nico (jackson):
   pronouns = ["she", "her"]
-  languages = ["python", "java", "c", "html", "css", "javascript"]
+  languages = ["python", "java", "html", "css", "javascript"]
   # i am passionate about web development, UI/UX/graphic design, and software development
   currentlyLearning: ("swift", 'C', "mongodb")
 ```
