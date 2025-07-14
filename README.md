@@ -13,7 +13,7 @@ $ npx nicojackson
 
 ![Snake animation](https://github.com/nicolajack/nicolajack/blob/output/github-contribution-grid-snake.svg)
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tacosockz&cover_image=true&theme=novatorem&show_offline=false&background_color=413535&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tacosockz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tacosockz&cover_image=true&theme=novatorem&show_offline=false&background_color=413535&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=tacosockz&redirect=true)
 
 <!--
 **nicolajack/nicolajack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
