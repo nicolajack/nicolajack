@@ -9,7 +9,7 @@ def nico (jackson):
   design = ["figma", "photoshop", "illustrator", "indesign", "canva"]
   
   # i am passionate about web development, UI/UX/graphic design, and software development
-  currentlyLearning: ("swift", "SQL")
+  currentlyLearning: ("swift", "SQL", "Pandas")
 ```
 ```
 $ npx nicojackson
