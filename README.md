@@ -17,6 +17,12 @@ def nico (jackson):
 $ npx nicojackson
 ```
 
+checkout some sites i've helped build:
+<br />
+<a href="https://www.pinkytoepaper.com/">pinky toe</a>
+<a href="https://buquantum.org/">bu quantum</a>
+<a href="https://www.piscoc.pinkytoepaper.com/auth">piscoc</a>
+
 <div align="center">
 
   ![Snake animation](https://github.com/nicolajack/nicolajack/blob/output/github-contribution-grid-snake.svg)
