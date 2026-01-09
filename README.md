@@ -9,9 +9,9 @@ def nico (jackson):
   design = ["figma", "photoshop", "illustrator", "indesign", "canva"]
   
   # i am passionate about web development, UI/UX/graphic design, and software development
-  currentlyLearning: ("swift", "SQL", "Pandas")
+  currentlyLearning: ("about cybersecurity", "linux")
 
-  currentlyBuilding: ("homework tracker", "hack4impact bu website", "christmas list")
+  currentlyBuilding: ("homework tracker", "hack4impact bu website", "tamagit")
 ```
 ```
 $ npx nicojackson
@@ -21,7 +21,6 @@ checkout some sites i've helped build:
 <br />
 <a href="https://www.pinkytoepaper.com/">pinky toe</a>
 <a href="https://buquantum.org/">bu quantum</a>
-<a href="https://www.piscoc.pinkytoepaper.com/auth">piscoc</a>
 
 <div align="center">
 
