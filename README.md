@@ -19,8 +19,9 @@ $ npx nicojackson
 
 checkout some sites i've helped build:
 <br />
-<a href="https://www.pinkytoepaper.com/">pinky toe</a>
 <a href="https://buquantum.org/">bu quantum</a>
+<a href="https://bu.hack4impact.org/">hack4impact bu</a>
+<a href="https://www.pinkytoepaper.com/">pinky toe</a>
 
 <div align="center">
 
