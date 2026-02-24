@@ -11,7 +11,7 @@ def nico (jackson):
   # i am passionate about web development, UI/UX/graphic design, and software development
   currentlyLearning: ("sql", "go")
 
-  currentlyBuilding: ("homework tracker", "hack4impact bu website", "tamagit")
+  currentlyBuilding: ("homework tracker", "scrappi", "tamagit")
 ```
 ```
 $ npx nicojackson
