@@ -5,7 +5,7 @@ def nico (jackson):
   pronouns = ["she", "her"]
   languages = ["python", "java", "html", "css", "javascript", "typescript", "c"]
   frameworks/tools = ["react", "next.js", "tailwind", "node.js", "git"]
-  databases = ["mongodb"]
+  databases = ["mongodb", "postegresql"]
   design = ["figma", "photoshop", "illustrator", "indesign", "canva"]
   
   # i am passionate about web development, UI/UX/graphic design, and software development
