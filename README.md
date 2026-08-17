@@ -1,18 +1,17 @@
 hi, i'm nico jackson.
 
-``` python
-def nico (jackson):
-  pronouns = ["she", "her"]
-  languages = ["python", "java", "html", "css", "javascript", "typescript", "c", "sql"]
-  frameworks/tools = ["react", "next.js", "tailwind", "node.js", "git"]
-  databases = ["mongodb", "postegresql"]
-  design = ["figma", "photoshop", "illustrator", "indesign", "canva"]
-  
-  # i am passionate about web development, UI/UX/graphic design, and software development
-  currentlyLearning: ("sql", "go")
-
-  currentlyBuilding: ("bankBot")
-```
+```python
+class NicoJackson:
+    def __init__(self):
+        self.pronouns = ["she", "her"]
+        self.languages = ["Python", "Java", "HTML", "CSS", "JavaScript", "TypeScript", "C", "SQL"]
+        self.frameworks_tools = ["React", "Next.js", "Tailwind", "Node.js", "Git"]
+        self.databases = ["MongoDB", "PostgreSQL"]
+        self.design = ["Figma", "Photoshop", "Illustrator", "InDesign", "Canva"]
+        
+        # passionate about web dev, UI/UX/graphic design, & software engineering
+        self.currently_learning = ["SQL", "Go"]
+        self.currently_building = ["bankBot"]
 ```
 $ npx nicojackson
 ```
@@ -28,5 +27,7 @@ checkout some sites i've helped build:
   ![Snake animation](https://github.com/nicolajack/nicolajack/blob/output/github-contribution-grid-snake.svg)
 
   ----
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tacosockz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  <a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tacosockz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" width="250" alt="spotify profile" />
+</a>
 </div>
