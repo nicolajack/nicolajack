@@ -13,6 +13,7 @@ class NicoJackson:
         self.currently_learning = ["SQL", "Go"]
         self.currently_building = ["bankBot"]
 ```
+```
 $ npx nicojackson
 ```
 
